@@ -1,7 +1,7 @@
 # 💫 Hi, this is Spike1118:
 
 - 🔭 I’m currently working as a remote full-stack developer and a [content creator](https://space.bilibili.com/273924639)
-- 📚 I have some free courses about  for beginners
+- 📚 I have some free courses about for beginners
 - 📫 How to reach me: mr.lucxhy@gmail.com
 
 <hr />
@@ -38,8 +38,6 @@
 ## 💻 Tech Stack:
 
 #### Languages
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
 
 #### Cloud/Host Platforms
 
